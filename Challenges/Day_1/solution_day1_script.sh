@@ -5,6 +5,7 @@
 # Task  2: Echo
 echo "Scripting is fun with @TWS"
 
+
 # Task  3: Variables
 variable1="Hello"
 variable2="Bash"
